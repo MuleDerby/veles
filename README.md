@@ -1,2 +1,5 @@
 # veles
-Share your _Stims_ on different platforms.
+Share your _Stims_ on different platforms.  
+
+
+##Contributors
