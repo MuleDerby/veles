@@ -2,4 +2,4 @@
 Share your _Stims_ on different platforms.  
 
 
-##Contributors
+## Contributors
