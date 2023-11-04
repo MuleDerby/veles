@@ -2,10 +2,10 @@
 Share your _Stims_ on different platforms.  <br />
 
 ## Contributors
-<table>
+<table style="text-align: center">
     <tr>
-        <th>User</th>
-        <th>Role</th>
+        <th style="text-align: center">User</th>
+        <th style="text-align: center">Role</th>
     </tr>
     <tr>
         <td><img src="https://avatars.githubusercontent.com/u/5631091?s=48&amp;v=4" alt="@nizarmah" size="24" height="48" width="48"><p><a href="https://github.com/nizarmah" target="_blank" rel="noopener noreferrer">nizarmah</a></p></td>
